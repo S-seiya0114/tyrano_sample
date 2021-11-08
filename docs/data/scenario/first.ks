@@ -23,7 +23,7 @@
 
 [cm]
 
-[bg storage=sleep.jpg time=500]
+[bg storage=surprise.jpg time=500]
 セリヌンティウスは息を止め死んだふりをした。[l][r]
 周りの人々は騒ぎ立てた。[1][r]
 縄は解かれ逃げることができた。[r]
@@ -34,7 +34,7 @@
 
 *tag_run
 
-[bg storage=run.jpg time=500]
+[bg storage=apologise.jpg time=500]
 
 [cm]
 セリヌンティウスは兵士たちにこびへつらった。[l][r]
